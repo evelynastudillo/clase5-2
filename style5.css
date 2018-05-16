@@ -1,0 +1,15 @@
+.row{
+	
+	clear: both;
+	width: 33%;
+		}
+
+.uno, .dos, .tres{
+	float: left;
+}
+
+@media{
+
+
+
+}
